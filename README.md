@@ -1,4 +1,4 @@
-# LoZeroHero
+# LoZeroHero (Logic: from Zero to Hero)
 
 This is my project **Logic: from Zero to Hero** (*LoZeHe* for short), which contains my notes on logic(s) and math.
 
