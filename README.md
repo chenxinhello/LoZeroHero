@@ -12,13 +12,18 @@ Long live Logic!!!
 ***Logic: from Zero to Hero*** series (LoZH)
 
 - $LoZH 1$: ***Mathematical Logic for stupid Xin***  ......
+  
   Propositional Logic, First-order Logic, and a little model theory + some important results
+
+
   
 - $LoZH 2-1$: ***Not too na\"{i}ve Set Theory for stupid Xin***
- Naive set theory of course
+
+Naive set theory of course
 
  
 - $LoZH 2-2$: ***Model Theory for stupid Xin***  ......
+
   model theory
 
 
@@ -29,6 +34,7 @@ Long live Logic!!!
 
 
 - $LoZH 3$: ***Modal Logic for stupid Xin***  ......
+
 mathematical modal logic, normal modal logic, Kripke semantics, modal model theory, completeness theory, duality theory, correspondence theory,
 algebraic semantics, 
 
