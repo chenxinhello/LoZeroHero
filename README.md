@@ -1,9 +1,9 @@
-# LoZH (Logic: from Zero to Hero)  逻辑：从入门到入土
+# Logic: from Zero to Hero   逻辑：从入门到入土
 
 
-This is my project **Logic: from Zero to Hero** (*LoZeHe* for short), which contains my notes on logic(s) and math.
+**Logic: from Zero to Hero** (***LoZH*** for short) is a personal project, which contains my notes on logic(s) and math.
 
-The title of every note has the following formal: ***XXXX for stupid Xin***.
+The title of every note has the following format: ***XXXX for stupid Xin***.
 
 Long live Logic!!!
 
