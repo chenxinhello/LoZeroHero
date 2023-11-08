@@ -19,7 +19,7 @@ Long live Logic!!!
   
 - $LoZH 2-1$: ***Not too na\"{i}ve Set Theory for stupid Xin***
 
-Naive set theory of course
+  Naive set theory of course
 
  
 - $LoZH 2-2$: ***Model Theory for stupid Xin***  ......
@@ -35,7 +35,7 @@ Naive set theory of course
 
 - $LoZH 3$: ***Modal Logic for stupid Xin***  ......
 
-mathematical modal logic, normal modal logic, Kripke semantics, modal model theory, completeness theory, duality theory, correspondence theory,
+  mathematical modal logic, normal modal logic, Kripke semantics, modal model theory, completeness theory, duality theory, correspondence theory,
 algebraic semantics, 
 
 
